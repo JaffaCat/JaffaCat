@@ -1,4 +1,3 @@
-#My Profile
 - Pronouns: he/him
 - 👋 Hi, I’m Jaffa, I'm  a 16 year old from the UK who enjoys programing in Python. 
 - 📫 You can reach me on Discord under the user "jaffacat"

@@ -1,8 +1,8 @@
-### Hey there! 👋
+## Hey there! 👋
 
 I'm Jaffa, a person from the UK who enjoys game emulation & Python.
 
-- 🐱‍💻 Anything I've made will be available [here]([url](https://github.com/JaffaCat?tab=repositories))
+- 🐱‍💻 Anything I've made will be available [here](https://github.com/JaffaCat?tab=repositories)
 - 📨 You can reach me on Discord (jaffacat)
 
 
